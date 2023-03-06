@@ -51,10 +51,12 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 * 0.2
 
-* Various bug fixes and optimizations
-* See [commit change](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc) or See [release history](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
+  * Various bug fixes and optimizations
+  * See [commit change](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc) or See [release history](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
+
 * 0.1
-* Initial Release
+
+  * Initial Release
 
 ## **License**
 
@@ -72,10 +74,10 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 
 ## **Screenshots**
 
- ![screenshot1](./img/scr1.png)
+![screenshot1](./img/scr1.png)
 
- ![screenshot2](./img/scr2.png)
+![screenshot2](./img/scr2.png)
 
- ![screenshot3](./img/scr3.png)
+![screenshot3](./img/scr3.png)
 
- ![screenshot4](./img/scr4.png)
+![screenshot4](./img/scr4.png)
