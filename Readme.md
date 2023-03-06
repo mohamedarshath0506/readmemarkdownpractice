@@ -24,17 +24,13 @@ An in-depth paragraph about your project and overview of use.
 
 * Step-by-step bullets
 
-```040
-code blocks for commands
-```
+      code blocks for commands
 
 ## Help
 
 Any advise for common problems or issues.
 
-```040
-command to run if program contains helper info
-```
+    command to run if program contains helper info
 
 ## Authors
 
