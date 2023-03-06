@@ -1,24 +1,24 @@
-# **Project Title**
+# Project Title
 
 Simple overview of use/purpose.
 
-## **Description**
+## Description
 
 An in-depth paragraph about your project and overview of use.
 
-## **Getting Started**
+## Getting Started
 
-### **Dependencies**
+### Dependencies
 
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * ex. Windows 10
 
-### **Installing**
+### Installing
 
 * How/where to download your program
 * Any modifications needed to be made to files/folders
 
-### **Executing program**
+### Executing program
 
 * How to run the program
 
@@ -28,7 +28,7 @@ An in-depth paragraph about your project and overview of use.
 code blocks for commands
 ```
 
-## **Help**
+## Help
 
 Any advise for common problems or issues.
 
@@ -36,7 +36,7 @@ Any advise for common problems or issues.
 command to run if program contains helper info
 ```
 
-## **Authors**
+## Authors
 
 Contributors names and contact info
 
@@ -44,7 +44,7 @@ ex. Dominique Pizzie
 
 ex. [@DomPizzie](https://twitter.com/dompizzie)
 
-## **Version History**
+## Version History
 
 * 0.2
 
@@ -55,11 +55,11 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
   * Initial Release
 
-## **License**
+## License
 
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
-## **Acknowledgments**
+## Acknowledgments
 
  Inspiration, code snippets, etc.
 
@@ -69,7 +69,7 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 * [zenorocha](https://gist.github.com/zenorocha/4526327)
 * [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 
-## **Screenshots**
+## Screenshots
 
 ![screenshot1](./img/scr1.png)
 
