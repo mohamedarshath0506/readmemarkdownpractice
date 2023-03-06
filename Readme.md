@@ -86,6 +86,10 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 | Header      | Title       |
 | Paragraph   | Text        |
 
+| Name | Age |
+|---- | -----|
+|Aeshath| 21|
+
 <!-- | Rank | THING-TO-RANK |
 |-----:|---------------|
 |     1|               |
